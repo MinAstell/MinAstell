@@ -13,7 +13,7 @@
 ## Contact me 
 ### I am looking for a job, so if you are interested or have any suggestions,
 ### please contact me via email or open Kakao.
-</a> <a href="mailto:speekup2015@naver.com">
+<a href="mailto:speekup2015@naver.com">
     <img 
         src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:speekup2015@naver.com"
         style="height : auto; width : 90px; margin-left : 10px; margin-right : 20px;"/>
