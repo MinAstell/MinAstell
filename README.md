@@ -16,7 +16,7 @@
 </a> <a href="mailto:speekup2015@naver.com">
     <img 
         src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:speekup2015@naver.com"
-        style="height : auto; width : 90px; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; width : 90px; margin-left : 10px; margin-right : 20px;"/>
 </a> <a href="https://open.kakao.com/o/sFEtDgue">
     <img 
         src="http://img.shields.io/badge/-kakaotalk-41454A?style=flat-square&logo=kakaotalk&link=https://open.kakao.com/o/sFEtDgue/"
