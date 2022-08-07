@@ -12,12 +12,8 @@
 
 ## Contact me 
 ### I am looking for a job, so if you are interested or have any suggestions,
-### please contact me via email or open Kakao.
-<a href="mailto:speekup2015@naver.com">
-    <img 
-        src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:speekup2015@naver.com"
-        style="height : auto; width : 90px; margin-left : 10px; margin-right : 20px;"/>
-</a> <a href="https://open.kakao.com/o/sFEtDgue">
+### please contact me via open Kakao.
+<a href="https://open.kakao.com/o/sFEtDgue">
     <img 
         src="http://img.shields.io/badge/-kakaotalk-41454A?style=flat-square&logo=kakaotalk&link=https://open.kakao.com/o/sFEtDgue/"
         style="height : auto; width : 124px; margin-left : 10px; margin-right : 10px;"/>
