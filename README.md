@@ -4,7 +4,7 @@
 
 ## Things I code with
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=FFCF00&labelColor=F7DF1E"> <img src="https://img.shields.io/badge/jquery-EEEEEE?style=for-the-badge&logo=jquery&logoColor=blue"> <img src="https://img.shields.io/badge/Java-EEEEEE?style=for-the-badge&logo=OpenJDK&logoColor=red"/> <img src="https://img.shields.io/badge/C-6CADDF?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/mySql-EEEEEE?style=for-the-badge&logo=mySql&logoColor=blue"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=FFCF00&labelColor=F7DF1E"> <img src="https://img.shields.io/badge/jquery-EEEEEE?style=for-the-badge&logo=jquery&logoColor=blue"> <img src="https://img.shields.io/badge/Java-EEEEEE?style=for-the-badge&logo=OpenJDK&logoColor=red"/> <img src="https://img.shields.io/badge/-6CADDF?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/mySql-EEEEEE?style=for-the-badge&logo=mySql&logoColor=blue"/>
 
 ## Attitude for develop
 - ### With sincerity and responsibility!
