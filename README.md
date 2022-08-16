@@ -4,7 +4,7 @@
 
 ## Things I code with
 
-<img src="https://github.com/MinAstell/images/blob/master/skill1.png">
+<img src="https://github.com/MinAstell/images/blob/master/skill1.png"><img src="https://github.com/MinAstell/images/blob/master/skill2.png"><img src="https://github.com/MinAstell/images/blob/master/skill3.png"><img src="https://github.com/MinAstell/images/blob/master/skill4.png"><img src="https://github.com/MinAstell/images/blob/master/skill5.png">
 
 ## Attitude for develop
 - ### With sincerity and responsibility!
