@@ -1,7 +1,7 @@
 
 ## Attitude for develop
-- ### With sincerity and responsibility!
-- ### Let's be developers who solve problems, not coders!
+- ### With sincerity and responsibility
+- ### Let's be developers who solve problems, not coders.
 
 ## CONTACT ME
 <a href="https://open.kakao.com/o/sFEtDgue">
