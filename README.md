@@ -1,17 +1,8 @@
 
-## Welcome to my page!
-- ### I'm Gyeongmin, growing up to Fullstack Developer from korean.
-
-## Things I code with
-
-<img src="https://github.com/MinAstell/images/blob/master/skill1.png"><img src="https://github.com/MinAstell/images/blob/master/skill2.png"><img src="https://github.com/MinAstell/images/blob/master/skill3.png"><img src="https://github.com/MinAstell/images/blob/master/skill4.png"><img src="https://github.com/MinAstell/images/blob/master/skill5.png">
-
 ## Attitude for develop
 - ### With sincerity and responsibility!
 - ### Let's be developers who solve problems, not coders!
 
-## Contact me 
-### I am looking for a job, so if you are interested or have any suggestions,
 ### please contact me via open Kakao.
 <a href="https://open.kakao.com/o/sFEtDgue">
     <img 
